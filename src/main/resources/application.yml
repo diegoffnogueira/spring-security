@@ -1,0 +1,5 @@
+#JWT
+jwt:
+  secret: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9
+#Token com duração de 7 dias
+  expiration: 604800
